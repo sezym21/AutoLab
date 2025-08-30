@@ -1,0 +1,19 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(96, 127, 191);
+    padding: 20px 50px;
+}
+
+.logo a, .menu {
+
+    display: flex;
+    gap: 10px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+
+
+}
+
